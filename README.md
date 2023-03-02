@@ -5,7 +5,8 @@
 
 # Supported Emulators
 - TrinityCore
-- MaNGOS & CMaNGOS
+- MaNGOS
+- CMaNGOS
 - Skyfire
 - AzerothCore
 - AshmaneCore
