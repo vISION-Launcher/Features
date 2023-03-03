@@ -1,8 +1,7 @@
 # vISION Launcher Features
-- Account Authentication
+- Account Authentication (Encrypted)
 - Account Registration
 - Carousel Articles
-- Encrypted login username
 
 # Supported Emulators
 - TrinityCore
