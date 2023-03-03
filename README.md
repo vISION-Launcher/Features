@@ -2,6 +2,7 @@
 - Account Authentication
 - Account Registration
 - Carousel Articles
+- Encrypted login username
 
 # Supported Emulators
 - TrinityCore
