@@ -2,6 +2,7 @@
 - Account Authentication (Encrypted)
 - Account Registration
 - Carousel Articles
+- Multi-realms online : offline status
 
 # Supported Emulators
 - TrinityCore
