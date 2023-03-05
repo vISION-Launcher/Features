@@ -1,7 +1,7 @@
 # vISION Launcher Features
 - Account Authentication (Encrypted)
 - Account Registration
-- Carousel Articles
+- Home Page : Articles Slides
 - Multi-realms online : offline status
 
 # Supported Emulators
